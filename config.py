@@ -1,0 +1,3 @@
+MONGODB_URI = "mongodb://localhost:27017/"
+TMDB_API_KEY = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwYWFmNDNjMjQ3ZGQ0ZjRiOTZjMzJiYTJhYmJmNjkxNyIsIm5iZiI6MTcyNzA0MDM4MS4xNzY5MDcsInN1YiI6IjY2ZjA4ODcxNmMzYjdhOGQ2NDhkOWE3MiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.6XpZ98ak1lq5u1E05QkZk7dxUZdPt1w5z-I4OI-Vj2Q"
+TMDB_BASE_URL = "https://api.themoviedb.org/3/movie"
